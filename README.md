@@ -7,8 +7,8 @@ A simple 2D Dungeoun Crawler Game with a story mode, with a hero turned villain 
 Assets, such as resources for the game were free to use. 
 
 Teammates:
-Hamid
-Matt
-Sarah
-Derek
+Hamid,
+Matt,
+Sarah,
+Derek,
 Junoo
